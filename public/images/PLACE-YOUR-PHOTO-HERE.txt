@@ -1,0 +1,6 @@
+Put your profile photo in this folder, named exactly:
+
+  abinesh-profile.jpg
+
+Recommended: portrait orientation (4:5), around 800 x 1000 px, under 300 KB.
+Until the file exists, the About section shows a neutral "Photo coming soon" placeholder.
